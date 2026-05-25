@@ -5,8 +5,6 @@ Fazendo quase literal lobotomia em um notebook de 2014, câmera, microfone, plac
 
 # 🕵️‍♂️ PhantomForge
 
-![PhantomForge](images/final/phantomforge-final.jpg)
-
 ### O que é?
 Um projeto de um verdadeiro **hardware frankenstein** onde transformei um notebook antigo em uma máquina minimalista, modular e focada em privacidade para estudos em cibersegurança.
 
@@ -27,9 +25,6 @@ O objetivo é simples: criar um "Notebook Fantasma" — uma máquina difícil de
 - [x] Remoção do drive de DVD
 - [ ] Substituição do HD por SSD (É uma boa adição)
 - [ ] Configuração final com Tails OS (se preferir o Kali ou qualquer outra distro live boot)
-
-### Filosofia do Projeto
-**"Quanto menos hardware, menos rastros."**
 
 Esse notebook agora é como um agente secreto: não tem nome, não tem rosto, não tem Wi-Fi fixo. Só hardware mudo + adaptador USB descartável.
 
