@@ -23,9 +23,6 @@
 - Drive de DVD removido
 - HD Samsung 2.5" removido
 
-### 3. Bateria
-- Nota: S
-
 ### 3. Remoção da Placa Wi-Fi Interna
 - Localização: À esquerda do HD, sob proteção metálica
 - Desconectados os dois fios de antena (preto e branco)
@@ -50,14 +47,6 @@
 - Dificuldade para desconectar alguns fios da bateria CMOS
 - Muita poeira acumulada no cooler
 
-## Fotos do Processo
-
-*(Insira aqui as fotos)*
-
-- `images/teardown/antes-desmontagem.jpg`
-- `images/teardown/placa-wifi-removida.jpg`
-- `images/teardown/bateria-cmos-removida.jpg`
-- `images/teardown/cooler-limpo.jpg`
 
 ## Status Final da Desmontagem
 
@@ -68,8 +57,4 @@
 - [x] HD removido
 - [x] Limpeza interna realizada
 
-**Próximo passo**: Montagem final + teste de boot via pendrive.
-
 ---
-
-**Dica para quem for replicar**: Tire muitas fotos durante o processo! Elas salvam muito na hora de montar de volta.
