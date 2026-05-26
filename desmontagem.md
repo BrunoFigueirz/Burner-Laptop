@@ -44,7 +44,7 @@
 ### 5. Remoção da Bateria CMOS
 - Bateria de botão redonda (CR2032) removida da placa-mãe
 - Deixada fora para reset completo da BIOS
-<img src="/Images/Image3.jpeg" alt="Material" width="300">
+<img src="/Images/Image3.jpeg" alt="Material" width="200">
 
 
 ### 6. Limpeza Interna
