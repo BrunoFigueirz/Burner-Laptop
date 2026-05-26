@@ -2,7 +2,7 @@
 
 ## Informações Iniciais
 
-- **Modelo**: Notebook genérico 2014 (marca Win / Positivo ou similar)
+- **Modelo**: Notebook win t23l CCE 2014 (Positivo)
 - **Objetivo**: Remover componentes que geram rastreabilidade e limpar internamente
 - **Dificuldade**: Média (parafusos velhos + gripados)
 
