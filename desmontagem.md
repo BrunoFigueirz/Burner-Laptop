@@ -31,6 +31,8 @@
 <img src="/Images/Imageii.jpeg" alt="Material" width="300">
 
 ### 3. Remoção da Placa Wi-Fi Interna
+<img src="/Images/image33.png" alt="Material" width="300">
+
 - É pra ficar na placa mae, A forma diferencia de hgardware pra hardware mas é mais comun ela nos modelos antigos ela utiliza slot Mini-PCIe ou M.2
 - O processo não é muito diferente da bateria.
 - *Nota*: Se quiser você pode tirar a conecções fisicas de LAN não vou fazer aqui porque seria um trabalho a mais já que ela é integrada a placa
