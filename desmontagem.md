@@ -3,7 +3,6 @@
 ## Informações Iniciais
 
 - **Modelo**: Notebook win t23l CCE 2014 (Positivo)
-- **Objetivo**: Remover componentes que geram rastreabilidade e limpar internamente
 
 ## Materiais Utilizados
 
