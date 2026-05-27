@@ -8,7 +8,7 @@ Fazendo quase literal lobotomia em um notebook de 2014, câmera, microfone, plac
 ### O que é?
 Um projeto de um verdadeiro **hardware frankenstein** onde transformei um notebook antigo em uma máquina minimalista, modular e focada em privacidade para estudos em cibersegurança.
 
-O objetivo é simples: criar um "Notebook Fantasma" — uma máquina difícil de rastrear, sem componentes desnecessários e que roda 100% via pendrive externo.
+O objetivo é simples: criar um "Notebook Fantasma" uma máquina difícil de rastrear, sem componentes desnecessários e que roda 100% via pendrive externo.
 
 ### Por que esse projeto existe?
 - Reaproveitar hardware velho que iria para o lixo
