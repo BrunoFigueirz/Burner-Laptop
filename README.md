@@ -3,7 +3,7 @@ Fazendo quase literal lobotomia em um notebook de 2014, câmera, microfone, plac
 
 ---
 
-# 🕵️‍♂️ PhantomForge
+# Notbook Fantasma
 
 ### O que é?
 Um projeto de um verdadeiro **hardware frankenstein** onde transformei um notebook antigo em uma máquina minimalista, modular e focada em privacidade para estudos em cibersegurança.
